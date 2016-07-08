@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="TextViewWithCenterLine">
+
+        <attr name="centerLineWidth" format="dimension|integer"/>
+        <attr name="centerLineColor" format="color"/>
+        <attr name="showCenterLine" format="boolean"/>
+
+    </declare-styleable>
+
+</resources>
